@@ -1,5 +1,5 @@
 # CAD-MasterLibrary
-CAD Library based off the FreeCAD library but with stricter sorting/naming/files.
+CAD Library based off the FreeCAD library but with personal sorting/naming/files.
 
 ## License
 
